@@ -16,8 +16,8 @@ app.get('/',(req,res)=>{
 
 app.get('/about',(req,res)=>{
     res.send(`
-	    <h1>Here's Bill's Express About Page</h1>
-      <p>Welcome to Express!</p>
+	    <h1>Welcome to Ramsey Mell\'s About Page</h1>
+      <p>Please add interesting information here!</p>
   `);
 
 });
